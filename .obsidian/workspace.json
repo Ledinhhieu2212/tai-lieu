@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "english/Enlish.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "english/Enlish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "english/Enlish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "english/Enlish.md"
               }
             }
           }
@@ -162,12 +162,17 @@
   },
   "active": "9ac906a642cffa5a",
   "lastOpenFiles": [
+    "web/Web.md",
+    "README.md",
+    "english/Enlish.md",
+    "english/Giới.md",
+    "Untitled",
+    "english",
     "tool",
     "Thuat-toan",
     "mobile",
     "window",
     "web",
-    "Giới thiệu.md",
-    "README.md"
+    "Giới thiệu.md"
   ]
 }
