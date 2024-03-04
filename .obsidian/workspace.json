@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7ec28b2b67478a6d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9cc099ea5fe411f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -162,9 +148,9 @@
   },
   "active": "9ac906a642cffa5a",
   "lastOpenFiles": [
-    "web/Web.md",
     "README.md",
     "english/Enlish.md",
+    "web/Web.md",
     "english/Giới.md",
     "Untitled",
     "english",
