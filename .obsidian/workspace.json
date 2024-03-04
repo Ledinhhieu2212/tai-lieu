@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tổng hợp.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tổng hợp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tổng hợp.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tổng hợp.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d7399c403476729",
+  "active": "9ac906a642cffa5a",
   "lastOpenFiles": [
     "tool",
     "Thuat-toan",
@@ -168,6 +168,6 @@
     "window",
     "web",
     "Giới thiệu.md",
-    "Tổng hợp.md"
+    "README.md"
   ]
 }

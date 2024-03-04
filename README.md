@@ -1,3 +1,4 @@
+#  Tổng hợp
 Tài liệu học của bản thân đúc kết thành văn bản Danh sách các môn học:
 - Tiếng anh
 - Tiếng nhật
@@ -7,4 +8,3 @@ Tài liệu học của bản thân đúc kết thành văn bản Danh sách cá
 - Lập trình window
 - Lập trình tool
 - Thuật toán
-- 
